@@ -326,6 +326,7 @@ footer section article:first-child{
     }
     .header-text{
         text-align: center;
+        line-height:1.6rem;
     }
     .header-text span{
         font-size: 22px;
