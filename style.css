@@ -142,7 +142,7 @@ main section:last-child{
 }
 button a{
     text-decoration: none;
-    
+    color:none;
 }
 
 /* footer section */
@@ -491,7 +491,10 @@ footer section article:first-child{
     transform: translateX(100%);
     transition: transform 250ms cubic-bezier(.5, 0, .5, 1);
 } */
-
+button a{
+    text-decoration: none;
+    color:none;
+}
 
 
 
